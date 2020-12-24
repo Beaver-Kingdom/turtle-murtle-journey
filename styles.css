@@ -1,0 +1,33 @@
+body {
+    background-color: blueviolet; 
+    color:black;
+}
+
+button {
+    background-color: green;
+    border-radius: 5px;
+}
+
+a {
+    color: white;
+}
+
+button:hover {
+    background-color: yellow;
+}
+
+a:hover {
+    color:black;
+}
+
+h1 {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 2px;
+}
+
+p {
+    background-color: yellow;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 2px;
+}
